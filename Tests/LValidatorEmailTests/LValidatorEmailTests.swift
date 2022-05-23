@@ -1,11 +1,11 @@
 import XCTest
-@testable import LValidatorDate
+@testable import LValidatorEmail
 
-final class LValidatorDateTests: XCTestCase {
+final class LValidatorEmailTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        //XCTAssertEqual(LValidatorDate.text, "Hello, World!")
+        //XCTAssertEqual(LValidatorEmail().text, "Hello, World!")
     }
 }
